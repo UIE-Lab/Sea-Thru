@@ -1,6 +1,6 @@
-# Sea-thru: A Method for Removing Water from Underwater Images
+# Sea-Thru: A Method for Removing Water from Underwater Images
 
-This repository contains a Python implementation of the paper **"Sea-thru: A Method for Removing Water from Underwater Images"**, published by Deya Akkaynak and Tali Treibitz in 2019.
+This repository contains a Python implementation of the paper **"Sea-Thru: A Method for Removing Water from Underwater Images"**, published by Deya Akkaynak and Tali Treibitz in 2019.
 
 ...
 
